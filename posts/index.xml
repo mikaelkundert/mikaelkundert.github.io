@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Mikael Kundert</title>
+        <link>https://kundert.dev/posts/</link>
+        <description>Recent content in Posts on Mikael Kundert</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <copyright>Mikael Kundert. All rights reserved.</copyright>
+        <lastBuildDate>Sat, 09 Mar 2019 18:03:00 +0200</lastBuildDate>
+        <atom:link href="https://kundert.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Welcome to My Homepage</title>
+            <link>https://kundert.dev/posts/2019/03/welcome-to-my-homepage/</link>
+            <pubDate>Sat, 09 Mar 2019 18:03:00 +0200</pubDate>
+            
+            <guid>https://kundert.dev/posts/2019/03/welcome-to-my-homepage/</guid>
+            <description>I can&amp;rsquo;t remember when last time I actually had a homepage with actual content. It must been over 10 years before I started to work full time professionally on web development.
+Why now again? This month, Google opened .dev TLD for anyone who wants a .dev domain. I decided to buy one to myself just in case if I want to use it.
+After purchase, it took me couple of hours until I started to wonder, why I shouldn&amp;rsquo;t have homepage?</description>
+            <content type="html"><![CDATA[
+
+<p>I can&rsquo;t remember when last time I actually had a homepage with actual content. It must been over 10 years before I started to work full time professionally on web development.<!--summary--></p>
+
+<h2 id="why-now-again">Why now again?</h2>
+
+<p>This month, <a href="https://blog.google/technology/developers/hello-dev/" target="_blank">Google opened .dev TLD</a> for anyone who wants a .dev domain. I decided to buy one to myself just in case if I want to use it.</p>
+
+<p>After purchase, it took me couple of hours until I started to wonder, why I shouldn&rsquo;t have homepage? Everyone should have their own space on the internet - not just hanging around in other&rsquo;s corners such as in Facebook, Instagram or Twitter.</p>
+
+<h2 id="home-sweet-home">Home sweet home</h2>
+
+<p>I want my homepage to be simple and having content that I want to share publicly just like in any other social media service. No ads, no terms of service, no middleware companies between - just open for internet (well technically speaking, there&rsquo;s hosting company and ISP company at least).</p>
+
+<p>I hope that people can learn things too from what I write. I also noticed that when I write things to public, I find myself learning more because I feel more responsible of what I&rsquo;m writing.</p>
+
+<p>I&rsquo;m not experienced blog post writer, I hope I&rsquo;ll become better over time. And I will very likely look these posts in the future facepalming myself, but that&rsquo;s OK.</p>
+
+<h2 id="topics">Topics</h2>
+
+<p>I hope most of my visitors find my posts while trying to find a solution to their technical problems or to find interesting ways of implementing things. Probably most of that stuff will be related to <a href="https://drupal.org" target="_blank">Drupal</a>, because that&rsquo;s the technology I work most of my time at the moment.</p>
+
+<p>My plan is also to be experimental and share my findings with you. These might be related to new technology I&rsquo;m interested into or to things that I need for a specific cases.</p>
+
+<p>I would also want to share some thoughts around some open source projects that I&rsquo;ve published (or projects that I&rsquo;m planning to publish). Most of them are so rarely used and originally created for clients&rsquo; needs. I don&rsquo;t find extra motivation to maintain just for the sake of coding. Maintaining open source project on free time without inspirational motivation will end up eventually really bad for mental health.</p>
+
+<p>I am not sure yet, how much posts I will do related to lifestyle or hobbies. If I find some relation between those topics and development, it might be possible to drop couple of those too.</p>
+
+<h2 id="why-hugo">Why Hugo?</h2>
+
+<p>So, this platform I chose for my homepage is called <a href="https://gohugo.io" target="_blank">Hugo</a>.</p>
+
+<h3 id="maintainability">Maintainability</h3>
+
+<p>Having any CMS in place requires you some work for maintenance. As matter of fact, almost any CMS that are designed to be maintained through web interface are the same: every now and then, there&rsquo;s a vulnerability that requires your attention.</p>
+
+<p>From maintenance point of view, I wanted something that can be on the internet for a long time without my attention - almost something that could be forgotten and maybe found after years. This will filter my options to solutions where content are distributed statically.</p>
+
+<h3 id="writing-experience">Writing experience</h3>
+
+<p>From writing point of view, I wanted simple and reliable way of writing things also offline. I don&rsquo;t need to be able to write stuff on device X and continue it on another device Y. I most likely enjoy writing from one device only. Therefore local document files are good option. For this, I found a very good <a href="https://daringfireball.net/projects/markdown/" target="_blank">Markdown</a> editor that has minimal UI. It&rsquo;s called <a href="https://typora.io/" target="_blank">Typora</a> and it&rsquo;s available in Windows, OSX and Linux.</p>
+
+<p>Using <a href="https://git-scm.com/" target="_blank">GIT</a> is not a problem for me, therefore maintaining revisions and pushing my content on repository are just fine.</p>
+
+<h3 id="hosting">Hosting</h3>
+
+<p>As pages can be delivered as static files, hosting costs should be practically free, because there are many services that allow you to host HTML pages and configure in your domain.</p>
+
+<h3 id="language">Language</h3>
+
+<p>The last reason is more related to my inspiration around <a href="https://golang.org/" target="_blank">Go language</a>. Hugo is written in Go and most of tools and frameworks I&rsquo;ve seen so far written in Go are very stable and fast.</p>
+
+<h3 id="credits">Credits</h3>
+
+<p>This homepage is not designed by me (that&rsquo;s on my todo list). The system behind it is not designed by me. Thanks to open source, I&rsquo;m able to say <strong>thank you</strong> for those that made me possible to just focus on sharing my thoughts to the internet.</p>
+
+<ul>
+<li><a href="https://atlialp.com" target="_blank">Djordje Atlialp</a> for creating this theme under <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a> license</li>
+<li><a href="https://github.com/gohugoio/hugo/graphs/contributors" target="_blank">All authors</a> of Hugo</li>
+<li>Authors of Typora (I couldn&rsquo;t find them from their website)</li>
+</ul>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>

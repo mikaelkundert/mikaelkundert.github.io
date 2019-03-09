@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Mikael Kundert</title>
+    <link>https://kundert.dev/tags/hugo/</link>
+    <description>Recent content in Hugo on Mikael Kundert</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Mikael Kundert. All rights reserved.</copyright>
+    <lastBuildDate>Sat, 09 Mar 2019 18:03:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://kundert.dev/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome to My Homepage</title>
+      <link>https://kundert.dev/posts/2019/03/welcome-to-my-homepage/</link>
+      <pubDate>Sat, 09 Mar 2019 18:03:00 +0200</pubDate>
+      
+      <guid>https://kundert.dev/posts/2019/03/welcome-to-my-homepage/</guid>
+      <description>I can&amp;rsquo;t remember when last time I actually had a homepage with actual content. It must been over 10 years before I started to work full time professionally on web development.
+Why now again? This month, Google opened .dev TLD for anyone who wants a .dev domain. I decided to buy one to myself just in case if I want to use it.
+After purchase, it took me couple of hours until I started to wonder, why I shouldn&amp;rsquo;t have homepage?</description>
+    </item>
+    
+  </channel>
+</rss>
